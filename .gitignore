@@ -5,3 +5,5 @@ ctry_cnt.csv
 json_data.pickle
 test.py
 uc.csv
+*.parquet
+*.pickle
