@@ -7,3 +7,4 @@ test.py
 uc.csv
 *.parquet
 *.pickle
+articles.csv
