@@ -35,7 +35,7 @@ The final project dashboard can be accessed by clicking  [here](FinalReport/DAT5
 
 ## Final project video (Youtube link)
 
-The final project video can be accessed by clicking  [here](FinalReport/DAT550_FINAL_PROJECT_REPORT.pdf)
+The final project video can be accessed by clicking  [here](Video/DAT550.mp4)
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=irRLKDj5e6Q
 " target="_blank"><img src="http://img.youtube.com/vi/irRLKDj5e6Q/0.jpg" 
 alt="Preview of final video presentation report" width="240" height="180" border="10" /></a>
